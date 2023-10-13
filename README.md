@@ -20,3 +20,24 @@ A retailer is looking to understand the relationship between the propertes of th
 
 
 ![Screenshot 2023-10-06 074511](https://github.com/GabrielleYa/Prediction-of-Product-Sales/assets/135492530/a2d991d9-287d-47e5-bcff-26ced2fe9b57)
+
+Logistic Regression Coefficents Feature Interpretation:
+
+![Screenshot 2023-10-12 211055](https://github.com/GabrielleYa/Prediction-of-Product-Sales/assets/135492530/fbbf6654-abe9-4b2e-8ac0-936c79891e1a)
+- Most of the feature coeffiecents are negativly corellated with the target.
+- The following features have the highest feature importance to the target
+  - Outlet Identifier
+  - Outlet Establishment Year
+  - Outlet Location Type
+
+Random Forest Model Feature Importance Interpretation:
+
+![Screenshot 2023-10-12 211142](https://github.com/GabrielleYa/Prediction-of-Product-Sales/assets/135492530/bdac14e2-5c78-4e0a-b1e9-f6d838762a36)
+- The following features have the highest feature importance to the target:
+ - Item MRP
+ - Outlet Type Grocery Store
+ - Item Visibilty
+ - Item Weight
+ - Outlet Identifier
+
+
